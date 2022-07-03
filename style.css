@@ -38,17 +38,17 @@ h1 {
     padding-bottom: 7%;
 }
 
-a {
+.a {
     text-decoration: none;
     color: white;
 }
 
-ul {
+.ul {
     padding-top: 6%;
     padding-bottom: 5%;
 }
 
-ul > i { 
+.ul > i { 
     margin-left: 5px;
     margin-right: 5px;
 } 
